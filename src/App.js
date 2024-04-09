@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Release</h1>
-        <h2>v1.0.0</h2>
+        <h2>v2.0.0</h2>
       </header>
     </div>
   );
